@@ -33,4 +33,3 @@ jobs:
           delete-branch: true
           add-paths: |
             pixi.toml
-            pixi.lock
